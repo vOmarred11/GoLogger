@@ -1,4 +1,4 @@
-module GoLogger
+module github.com/vOmarred11/GoLogger
 
 go 1.24
 
