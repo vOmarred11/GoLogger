@@ -1,4 +1,4 @@
-module Maplus
+module GoLogger
 
 go 1.24
 
